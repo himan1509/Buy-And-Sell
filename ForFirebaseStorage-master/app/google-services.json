@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "4835276235",
+    "firebase_url": "https://forfirebasestorage.firebaseio.com",
+    "project_id": "forfirebasestorage",
+    "storage_bucket": "forfirebasestorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4835276235:android:a7ac2d6ca3fdfc20",
+        "android_client_info": {
+          "package_name": "ems.erp.mmdu.com.forfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4835276235-n0p5c3va472om1jc4ef2v0ebp9pmoq9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ems.erp.mmdu.com.forfirebasestorage",
+            "certificate_hash": "5dd3b21022c867ff6954a8f76661526bb3a09e2c"
+          }
+        },
+        {
+          "client_id": "4835276235-1bhltfciqd1uq0tres31tmniopdp9ads.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVc_C2MH8Y2Xp7AKEh2DgJtK4npCvCz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4835276235-1bhltfciqd1uq0tres31tmniopdp9ads.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

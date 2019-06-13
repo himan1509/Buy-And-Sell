@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bottom_ammar" android:title="Home" android:icon="@drawable/home"/>
+    <item android:id="@+id/bottom_himan" android:title="Buy/Sell" android:icon="@drawable/buy_sell"/>
+    <item android:id="@+id/bottom_deva" android:title="Profile" android:icon="@drawable/profile"/>
+
+</menu>
